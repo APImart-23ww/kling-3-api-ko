@@ -2,7 +2,8 @@
 
 > **초당 $0.0672** 종량제. 최소 1달러부터 충전하고 OpenAI 호환 `https://api.apimart.ai/v1` 하나로 끝납니다.
 
-**[Kling v3 모델 페이지](https://go.apimart.ai/k-dd727c)** · **[실시간 가격](https://go.apimart.ai/k-61dc0b)** · **[API 키 발급](https://go.apimart.ai/k-86fd51)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Kling v3 sample frame"></p>
+**[Kling v3 모델 페이지](https://apimart.ai/ko/model/kling-3-0-turbo)** · **[실시간 가격](https://apimart.ai/ko/pricing)** · **[API 키 발급](https://apimart.ai/ko/keys)**
 
 카메라 무빙과 움직임 표현이 강점입니다. pro는 완성본용, sound는 오디오가 포함되어 별도 오디오 파이프라인을 줄일 수 있습니다.
 
@@ -20,6 +21,13 @@
 | `model` | `kling-v3` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 실제 생성 샘플 (모두 실호출 결과)
+
+| 출력 | file | 비용 | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.336 | `해안 절벽 위 현대식 빌라, 황혼, 수영장에 비치는 하늘, 느린 카메라 푸시` |
 
 ## 실측 가격
 

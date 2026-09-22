@@ -1,0 +1,18 @@
+{
+  "model": "kling-v3",
+  "samples": [
+    {
+      "repo": "kling-3-api-ko",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 4119070,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.336,
+      "prompt": "해안 절벽 위 현대식 빌라, 황혼, 수영장에 비치는 하늘, 느린 카메라 푸시",
+      "lang": "ko"
+    }
+  ],
+  "cost_usd": 0.336,
+  "generated_at": "2026-09-21"
+}
